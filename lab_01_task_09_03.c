@@ -2,10 +2,10 @@
 
 int main(){
     float a,b;
-    printf("Enter length: ");
+    printf("Enter base: ");
     scanf("%f", &a);
-    printf("Enter length: ");
+    printf("Enter height: ");
     scanf("%f", &b);
-    printf("The area of the square = %.1f", .5*a*b );
+    printf("The area of the triangle = %.1f", .5*a*b );
     return 0;
 }
