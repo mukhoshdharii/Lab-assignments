@@ -1,0 +1,48 @@
+{
+    "workbench.colorTheme": "Dark+",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.fontSize": 18,
+    "cmake.options.statusBarVisibility": "visible",
+    "code-runner.runInTerminal": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1
+
+    
+
+    "editor.tokenColorCustomizations": {
+    "textMateRules": [
+        {
+            "scope": "string",
+            "settings": {
+                "foreground": "#9CDCFE"
+            }
+        }
+
+        {
+            "scope": "storage.type",
+            "settings": {
+                "foreground": "#d65656",
+                "fontStyle": "bold"
+            }
+        }
+
+        {
+            "scope": "variable",
+            "settings": {
+                "foreground": "#a305ff"
+            }
+        }
+
+        {
+            "scope": "keyword.operator",
+            "settings": {
+                "foreground": "#FF0000"
+            }
+        }
+    ]
+    "comments": "#808080"
+}
+
+}
